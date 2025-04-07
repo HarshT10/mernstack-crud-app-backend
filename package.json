@@ -18,6 +18,6 @@
     "@types/mongoose": "^5.11.97"
   },
   "scripts": {
-    "start": "npm start"
+    "start": "node src/app.js"
   }
 }
