@@ -28,7 +28,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://mernstack-crud-app-frontend.vercel.app/",
+      "https://mernstack-crud-app-frontend.vercel.app",
     ],
     credentials: true,
   })
